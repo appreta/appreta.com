@@ -31,6 +31,10 @@ body {
 	
 }
 
+.container {
+    width: 85%;
+}
+
 h1 strong{
 	font-weight: 900;
 }
@@ -131,9 +135,8 @@ text-align:justify;
 
 .a-slog {
 	font-size:0.93em;
-	max-width: 450px;
 	margin:0 auto;
-        padding-top:10px;
+    padding-top:10px;
 }
 
 .gap
@@ -618,7 +621,6 @@ p.lead
 ------------------------------*/
 .client-testimonial
 {
- background:url("../images/img-2.jpg");
  background-position: center center;
  background-attachment: fixed;
  background-size:cover;
@@ -904,4 +906,6 @@ font-family: 'Roboto Slab', serif;
     50.01% { opacity: 0; }
     100% { opacity: 0; }
 }
+
+
 
