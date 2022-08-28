@@ -1,0 +1,13 @@
+{
+    "liveServer.settings.port": 4300,
+    "liveSassCompile.settings.includeItems": [
+        "scss/style.scss"
+    ],
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "compact",
+            "extensionName": ".css",
+            "savePath": "/css",
+        }
+    ]
+}
