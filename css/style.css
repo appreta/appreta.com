@@ -9229,7 +9229,7 @@ h1.section-header {
   position: relative;
 }
 h1.section-header::before {
-  background-color: #3989C9;
+  background-color: #FF8800;
   content: " ";
   height: 4px;
   left: 0;
